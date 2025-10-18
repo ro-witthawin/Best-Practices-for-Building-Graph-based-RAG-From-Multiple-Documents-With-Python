@@ -1,0 +1,8 @@
+langchain_community 
+langchain_openai 
+langchain_mongodb 
+pymongo 
+pyvis
+pypdf
+networkx 
+notebook
