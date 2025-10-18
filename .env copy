@@ -1,0 +1,7 @@
+MONGO_URI=XXXXXXXXXX # MongoDB connection string
+MONGO_DB=XXXXXXXXXX # MongoDB database to store the knowledge graph
+MONGO_GRAPH_COLLECTION=XXXXXXXXXX # MongoDB collection to store the graph data
+MONGO_VECTOR_COLLECTION=XXXXXXXXXX # MongoDB collection to store the documents
+MONGO_VECTOR_INDEX=XXXXXXXXXX # MongoDB collection to store the vector index
+
+OPENAI_API_KEY=XXXXXXXXXX # OpenAI API key
